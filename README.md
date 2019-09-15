@@ -21,7 +21,7 @@ Vehicle dynamic model considering non-holonomic constraints and addition of trai
 <p align="center"> <img src = "img/5.png" alt="Image" width="200" height="200" />
 <p align="center"> Fig 3. Dynamics model used
 
-<p align="center"> <img src = "img/3.png" alt="Image" width="400" height="500" />>
+<p align="center"> <img src = "img/3.png" alt="Image" width="400" height="300" />>
 <p align="center">  Fig 4. Comparison of automated framework and single planners for global map in terms of path cost and runtime**
 
 
