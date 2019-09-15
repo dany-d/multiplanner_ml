@@ -18,10 +18,10 @@ Abstract—Autonomous vehicles have fast computational requirements, therefore i
 
 Vehicle dynamic model considering non-holonomic constraints and addition of trailer. The front wheel is allowed steering described by steering wheel angle (δ) and the vehicle orientation is denoted by (θ). The non-holomomic constraints of the vehicle is expressed as differential equations of motion of the vehicle. The dynamic model includes the vehicle and trailer orientations as (δ1) and (δ2) and wheelbases as L1 and L2 respectively.
 
-<p align="center"> <img src = "img/5.png" alt="Image" width="200" height="600" />
+<p align="center"> <img src = "img/5.png" alt="Image" width="200" height="200" />
 <p align="center"> Fig 3. Dynamics model used
 
-<p align="center"> <img src = "img/3.png" alt="Image" width="500" height="600" />>
+<p align="center"> <img src = "img/3.png" alt="Image" width="500" height="500" />>
 <p align="center">  Fig 4. Comparison of automated framework and single planners for global map in terms of path cost and runtime**
 
 
