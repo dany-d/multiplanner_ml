@@ -1,8 +1,6 @@
 import numpy
 from map_runner import init_collision_checking, collision_check, view_path
 import time
-# start = start_q
-# goal = goal_q
 
 
 class Node():
